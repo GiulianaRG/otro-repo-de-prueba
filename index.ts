@@ -74,5 +74,6 @@ class Piso {
   
   function main() {
     testClaseEdificio();
+      console.log("estoy haciendo un cambio")
   }
   main()
